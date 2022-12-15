@@ -72,7 +72,7 @@ const textNodes = [
         nextText: 3
       },
       {
-        text: 'Say nothing about the chip to the fixer',
+        text: 'Say nothing to the fixer',
         nextText: 3
       }
     ]
@@ -152,7 +152,7 @@ const textNodes = [
   },
   {
     id: 8,
-    text: 'Your attempt to run is in vain and as you turn around you got shot in the head.',
+    text: 'Your attempt to run is futile and as you turn around you got shot in the head.',
     options: [
       {
         text: 'Restart',
